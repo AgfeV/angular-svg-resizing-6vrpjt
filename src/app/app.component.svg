@@ -1,0 +1,26 @@
+
+
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 775.43 469.98">
+    <defs>
+        <style>.cls-1{fill:none;stroke-width:5px;}.cls-1,.cls-2{stroke:#a15256;}.cls-2{fill:#fff;}.cls-3{isolation:isolate;font-size:42.79px;font-family:ArialMT, Arial;}</style>
+    </defs>
+    <title>line</title>
+    <path id="path7" class="cls-1" d="M202,67.72,329.33,215.86" transform="translate(-200.1 -66.09)" />
+    <path id="path8" class="cls-1" d="M329.35,215.87,449,355" transform="translate(-200.1 -66.09)" />
+    <path id="path9" class="cls-1" d="M449,355c41.53,51.11,96.22,63.08,117.9,69.28" transform="translate(-200.1 -66.09)" />
+    <path id="path10" class="cls-1" d="M566.86,424.29C655.43,460.48,977.38,391.48,973,536" transform="translate(-200.1 -66.09)" />
+    <g id="stops">
+        <g id="g3670">
+            <circle class="cls-2" cx="129.24" cy="149.78" r="13.58" />
+            <text id="text3668" class="cls-3" transform="translate(140.84 114.12)">Station1</text>
+        </g>
+        <g id="g3700">
+            <circle class="cls-2" cx="248.91" cy="288.93" r="13.58" />
+            <text id="text3698" class="cls-3" transform="translate(284.5 239)">Station2</text>
+        </g>
+        <g id="g3750">
+            <circle class="cls-2" cx="366.75" cy="358.2" r="13.58" />
+            <text id="text3748" class="cls-3" transform="translate(134.96 379.59)">Station3</text>
+        </g>
+    </g>
+</svg>

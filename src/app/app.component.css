@@ -1,0 +1,16 @@
+p {
+  font-family: Lato;
+}
+
+#stops g:hover circle { 
+  transform: scale(2); 
+  transform-origin: 50% 50%; 
+  transform-box: fill-box; 
+  cursor: pointer;
+  fill: red;
+};
+#stops g:hover > text{ 
+  font-size:80px; 
+  transform-origin: 50% 50%; 
+
+}
